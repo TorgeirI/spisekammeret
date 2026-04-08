@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Spisekammeret.Api/Spisekammeret.Api.csproj" />
+  <Project Path="Spisekammeret.Core/Spisekammeret.Core.csproj" />
+  <Project Path="Spisekammeret.Infrastructure/Spisekammeret.Infrastructure.csproj" />
+</Solution>

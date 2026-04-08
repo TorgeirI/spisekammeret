@@ -1,0 +1,25 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.log
+*.nupkg
+
+# EF Core migrations compiled
+Migrations/*.Designer.cs
+
+# Secrets
+appsettings.*.json
+!appsettings.Development.json
+*.env
+
+# Node / React
+node_modules/
+dist/
+.vite/
+
+# OS
+.DS_Store
+Thumbs.db
