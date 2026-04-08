@@ -20,6 +20,9 @@ node_modules/
 dist/
 .vite/
 
+# Claude Code
+.claude/
+
 # OS
 .DS_Store
 Thumbs.db
