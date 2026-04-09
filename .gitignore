@@ -20,8 +20,8 @@ node_modules/
 dist/
 .vite/
 
-# Claude Code
-.claude/
+# Claude Code session logs
+.claude/*.jsonl
 
 # OS
 .DS_Store
